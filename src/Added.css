@@ -1,0 +1,12 @@
+.addedProduct {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  z-index: 10;
+  display: grid;
+  width: 400px;
+  height: auto;
+  padding: 8px;
+  grid-template-columns: 1;
+  row-gap: 8px;
+}
